@@ -25,12 +25,6 @@
 
 ###
 
-<br clear="both">
-
-<img data-importer="image" align="right" height="200" src="https://imgflip.com/gif/b1m10w"  />
-
-###
-
 <div data-importer="socials" align="left">
   <a href="https://www.instagram.com/ryann_xps?stkn=MW56NDNla2xoMnl2cg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -47,6 +41,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/8enn7/8enn7/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
